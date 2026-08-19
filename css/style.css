@@ -39,7 +39,7 @@
   --font-body: "Times New Roman", Times, "Liberation Serif", serif;
   --font-mono: "Times New Roman", Times, "Liberation Serif", serif;
 
-  --fs-hero: clamp(3rem, 9vw, 6.5rem);
+  --fs-hero: clamp(2rem, 5vw, 3.25rem);
   --fs-h1: clamp(2rem, 5vw, 3.25rem);
   --fs-h2: clamp(1.4rem, 3vw, 1.9rem);
   --fs-h3: 1.15rem;
